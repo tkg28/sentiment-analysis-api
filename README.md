@@ -1,8 +1,9 @@
-README.md（最低限だけど評価される）
+
 
 # Sentiment Analysis API
 
 日本語の感情分析API（BERTベース）
+（AIを用いた宿泊施設向けアンケートアプリの機能の一つとして使用）
 
 ## Usage
 
